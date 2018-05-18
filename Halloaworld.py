@@ -1,2 +1,4 @@
 def say():
-    print("HALLO WORLD")
+    print("Hello WORLD")
+    
+say()
